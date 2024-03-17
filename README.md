@@ -9,7 +9,10 @@ This repo is created as an example of using TypeScript to develop Web Resources 
 1. Open a command window in Windows;
 2. Create a directory and navigate to directory;
 3. Run clone command as blow
+```Script
    git clone https://github.com/qfni123/webresource.git .
+```
+
 5. Run command: npm install
 6. Run command: npm run watch
 7. Out Javascript files is located ./js
