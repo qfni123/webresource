@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "es2018", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+        "lib": [
+            "es2018",
+            "dom"
+        ],
+        "rootDir": "./src",
+        "allowJs": false, /* Allow JavaScript files to be a part of your program. Use the `checkJS` option to get errors from these files. */
+        "checkJs": false, /* Enable error reporting in type-checked JavaScript files. */
+        "sourceMap": false, /* Create source map files for emitted JavaScript files. */
+        "outDir": "./js", /* Specify an output folder for all emitted files. */
+        "removeComments": true, /* Disable emitting comments. */
+        "noEmitHelpers": true, /* Disable generating custom helper functions like `__extends` in compiled output. */
+        "noEmitOnError": true, /* Disable emitting files if any type checking errors are reported. */
+        "allowSyntheticDefaultImports": true, /* Allow 'import x from y' when a module doesn't have a default export. */
+        "forceConsistentCasingInFileNames": true, /* Ensure that casing is correct in imports. */
+        "noImplicitAny": false, /* Enable error reporting for expressions and declarations with an implied `any` type.. */
+        "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+        "types": [
+            "xrm"
+        ]
+    },
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules",
+        "obj",
+        "build",
+        "dist"
+    ]
+}
