@@ -15,7 +15,7 @@ This repo is created as an example of using TypeScript to develop Web Resources 
 
 5. Run command: npm install
 6. Run command: npm run watch
-7. Out Javascript files is located ./js
+7. Output Javascript files is located ./js
 
 # Try it in D365 CRM
 1. Create a web resource in D365
